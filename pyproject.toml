@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "aiomarine"
+version = "0.1.0"
+description = ""
+authors = ["Alexeev Bronislav <alexeev.dev@mail.ru>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+asyncio = "^3.4.3"
+aiosqlite = "^0.21.0"
+rich = "^14.0.0"
+orjson = "^3.10.16"
+
+
+[tool.poetry.group.dev.dependencies]
+isort = "^6.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
