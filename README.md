@@ -114,18 +114,25 @@ Once installed, you can start using the library in your Python projects. Check o
 ## 💻 Usage Examples
 You can view examples at [examples directory](./examples).
 
-### 📖 Documentation Highlights
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔧 Specifications
+Coming soon
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Documentation 🌍
 
 - Getting Started: Step-by-step guides to set up and configure your environment.
 - API Reference: Detailed explanations of functions and methods available in aiomarine.
 - Advanced Guides: Dive into best practices for performance optimization and advanced features.
 
-For dynamic real-time updates and community-driven knowledge sharing, visit [aiomarine Documentation](https://alexeev-prog.github.io/aiomarine/) now! 
-
-## 🔧 Specifications
-Coming soon
+The main documentation is [here](https://alexeev-prog.github.io/aiomarine/).
 
 <img src="https://github.com/alexeev-prog/aiomarine/actions/workflows/docs.yml/badge.svg">
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing
 We welcome contributions from the community! If you'd like to help improve aiomarine, please check out the [contributing guidelines](https://github.com/alexeev-prog/aiomarine/blob/main/CONTRIBUTING.md) to get started.
@@ -149,6 +156,8 @@ If you find aiomarine valuable and want to support the project:
 
 Connect with fellow aiomarine users: [Join our Telegram Channel](https://t.me/hex_warehouse)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🔮 Roadmap
 Our future goals for aiomarine include:
 
@@ -167,6 +176,8 @@ Unlock your potential as a developer with aiomarine. Don’t just build applicat
 **Happy Coding!** 💻✨
 
 This README is designed to grab attention from the very first lines. It emphasizes the framework's strengths and makes a compelling case for why developers should choose aiomarine for their projects. Feel free to adjust any specific links or images to fit your project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
 Distributed under the GNU LGPL 2.1 License. See [LICENSE](https://github.com/alexeev-prog/aiomarine/blob/main/LICENSE) for more information.
