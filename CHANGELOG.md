@@ -1,3 +1,15 @@
+commit d742b87d4b829bdcd44c1e32e24852477dabb160
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Sun Apr 27 04:56:40 2025 +0700
+
+    add tests and some functions
+
+commit 4c152d15a708ea888136610ecd439ef249287fda
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Thu Apr 24 08:25:12 2025 +0700
+
+    edit readme
+
 commit 5814bb90d4af30c7d90b49fe86993c77cbb3a3ad
 Author: Alexeev Bronislav <alexeev.dev@mail.ru>
 Date:   Thu Apr 24 02:23:09 2025 +0700

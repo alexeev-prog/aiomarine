@@ -1,0 +1,221 @@
+{
+    "Documents": {
+        "exts": [
+            ".pdf",
+            ".docx",
+            ".doc",
+            ".odt",
+            ".rtf",
+            ".wps"
+        ],
+        "directory_name": "documents"
+    },
+    "Images": {
+        "exts": [
+            ".png",
+            ".svg",
+            ".webp",
+            ".jpeg",
+            ".jpg",
+            ".gif",
+            ".bmp",
+            ".tif",
+            ".tiff",
+            ".raw",
+            ".ico",
+            ".jfif",
+            ".heic"
+        ],
+        "directory_name": "images"
+    },
+    "Archives": {
+        "exts": [
+            ".xz",
+            ".bz",
+            ".tar",
+            ".zip",
+            ".rar",
+            ".7z",
+            ".gz",
+            ".lzip",
+            ".cab",
+            ".iso",
+            ".dmg"
+        ],
+        "directory_name": "archives"
+    },
+    "Text": {
+        "exts": [
+            ".md",
+            ".rst",
+            ".json",
+            ".log",
+            ".sql"
+        ],
+        "directory_name": "text"
+    },
+    "Books": {
+        "exts": [
+            ".fb2",
+            ".epub",
+            ".mobi",
+            ".azw",
+            ".azw3"
+        ],
+        "directory_name": "books"
+    },
+    "Spreadsheet": {
+        "exts": [
+            ".xlsx",
+            ".xls",
+            ".xlsm",
+            ".ods",
+            ".xltx",
+            ".csv"
+        ],
+        "directory_name": "spreadsheets"
+    },
+    "Videos": {
+        "exts": [
+            ".mp4",
+            ".mov",
+            ".avi",
+            ".mkv",
+            ".wmv",
+            ".mpg",
+            ".mpeg",
+            ".m4v",
+            ".webm",
+            ".flv",
+            ".3gp",
+            ".rmvb"
+        ],
+        "directory_name": "videos"
+    },
+    "Audios": {
+        "exts": [
+            ".mp3",
+            ".wav",
+            ".ogg",
+            ".flac",
+            ".aif",
+            ".mid",
+            ".midi",
+            ".wma",
+            ".aac",
+            ".m4a",
+            ".opus",
+            ".ape",
+            ".dsd"
+        ],
+        "directory_name": "audios"
+    },
+    "Java": {
+        "exts": [
+            ".java",
+            ".jar",
+            ".class",
+            ".javadoc"
+        ],
+        "directory_name": "java"
+    },
+    "Scripts": {
+        "exts": [
+            ".sh",
+            ".bash",
+            ".bat",
+            ".fish",
+            ".zsh",
+            ".ps",
+            ".py",
+            ".rb",
+            ".pl",
+            ".lua",
+            ".jsp"
+        ],
+        "directory_name": "scripts"
+    },
+    "Garbage": {
+        "exts": [
+            ".crdownload",
+            ".flatpakref",
+            ".part",
+            ".tmp",
+            ".swp"
+        ],
+        "directory_name": ".garbage"
+    },
+    "3D Models": {
+        "exts": [
+            ".fbx",
+            ".obj",
+            ".stl",
+            ".3ds",
+            ".blend",
+            ".dae",
+            ".ply",
+            ".svgz"
+        ],
+        "directory_name": "3d_models"
+    },
+    "Configuration": {
+        "exts": [
+            ".cfg",
+            ".conf",
+            ".properties",
+            ".ini",
+            ".yaml",
+            ".toml",
+            ".yml",
+            ".config"
+        ],
+        "directory_name": "configurations"
+    },
+    "Fonts": {
+        "exts": [
+            ".ttf",
+            ".otf",
+            ".woff",
+            ".woff2",
+            ".eot"
+        ],
+        "directory_name": "fonts"
+    },
+    "Web": {
+        "exts": [
+            ".html",
+            ".htm",
+            ".css",
+            ".js",
+            ".ts",
+            ".php"
+        ],
+        "directory_name": "web"
+    },
+    "Virtual Machines": {
+        "exts": [
+            ".vmdk",
+            ".vdi",
+            ".ova",
+            ".ovf",
+            ".box"
+        ],
+        "directory_name": "virtual_machines"
+    },
+    "Presentations": {
+        "exts": [
+            ".ppt",
+            ".pptx",
+            ".key",
+            ".odp"
+        ],
+        "directory_name": "presentations"
+    },
+    "OpenVPN": {
+        "exts": [
+            ".ovpn",
+            ".openvpn"
+        ],
+        "directory_name": "openvpn"
+    }
+}

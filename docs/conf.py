@@ -7,7 +7,7 @@ sys.path.insert(0, os.path.abspath(os.path.join("..", "..")))
 sys.path.insert(0, os.path.abspath("../aiomarine"))
 sys.path.insert(0, os.path.abspath("aiomarine"))
 
-project = "pyEchoNext"
+project = "AIOMarine"
 author = "name"
 version = "0.1.0"
 release = "0.1"

@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/github/issues/alexeev-prog/aiomarine?style=for-the-badge">
     <img src="https://img.shields.io/github/last-commit/alexeev-prog/aiomarine?style=for-the-badge">
     <img src="https://img.shields.io/pypi/wheel/uvolution?style=for-the-badge">
-    <img src="https://img.shields.io/badge/coverage-73%25-73%25?style=for-the-badge" alt="">
+    <img alt="Static Badge" src="https://img.shields.io/badge/COVERAGE-77%25-green?style=for-the-badge">
     <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/aiomarine?style=for-the-badge">
     <img alt="PyPI - Version" src="https://img.shields.io/pypi/v/aiomarine?style=for-the-badge">
     <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/aiomarine?style=for-the-badge">

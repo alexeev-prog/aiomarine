@@ -42,6 +42,15 @@ class IntegerField(BaseDataType):
     This class describes an integer field.
     """
 
+    __slots__ = (
+        'max_value',
+        'min_value',
+        'primary_key',
+        'unique',
+        'null',
+        'default'
+    )
+
     def __init__(
         self,
         max_value: Optional[int] = SQLInt.SIGNED_MIN,
@@ -82,6 +91,15 @@ class IntegerField(BaseDataType):
 
 
 class BigIntegerField(IntegerField):
+    __slots__ = (
+        'max_value',
+        'min_value',
+        'primary_key',
+        'unique',
+        'null',
+        'default'
+    )
+
     def __init__(
         self,
         max_value: Optional[int] = SQLBigInt.SIGNED_MAX,
